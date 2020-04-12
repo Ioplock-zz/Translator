@@ -1,5 +1,3 @@
-/Maikliton/RandomColorCollection/raw/master/ColorCollection.apk
-
 # Translator
 Для перевода используется api Яндекса
 
